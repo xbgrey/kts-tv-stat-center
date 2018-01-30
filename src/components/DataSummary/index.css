@@ -1,0 +1,15 @@
+.app-data-summary{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    color: #fff;
+}
+
+.app-data-summary .map,
+.app-data-summary .data{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}

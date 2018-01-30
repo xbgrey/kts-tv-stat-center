@@ -1,0 +1,15 @@
+.app-number-display{
+    color: #fff;
+    font-family: 'Microsoft YaHei'
+}
+
+.app-number-display .comma,
+.app-number-display .number{
+    background: #43585e;
+    margin: 1px;
+    text-align: center;
+    padding: 2px 3px;
+}
+.app-number-display .comma{
+    background:none;
+}

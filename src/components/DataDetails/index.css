@@ -1,0 +1,26 @@
+.app-data-details .details-t{
+    color: #fff;
+    font-size: 18px;
+}
+
+.app-data-details .details-list{
+    background: #4a636f;
+    padding: 4px;
+    margin-bottom: 30px;
+}
+
+.app-data-details .details-list li{
+    color: #fff;
+    background: #314f63;
+    float: left;
+    margin: 2px;
+    font-size: 12px;
+    padding: 6px;
+    width: 170px;
+    height: 48px;
+    transition: background .5s;
+}
+
+.app-data-details .details-list li.on{
+    background: #4d3941;
+}

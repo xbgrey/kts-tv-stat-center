@@ -1,0 +1,18 @@
+.app-title{
+    height: 132px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.app-title p{
+    text-align: center;
+    line-height: 2.3;
+    height: 90px;
+    width: 1100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #fff;
+    font-size: 28px;
+}
